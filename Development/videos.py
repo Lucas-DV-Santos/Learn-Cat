@@ -16,5 +16,19 @@ while sistema:
                 print('')
             case 4:
                 print('')
+            case 5:
+                print('')
+            case 6:
+                print('')
+            case 7:
+                print('')
+            case 8:
+                print('')
+            case 9:
+                print('')
+            case 10:
+                print('')
+            case 11:
+                print('')
     else:
         sistema = False
