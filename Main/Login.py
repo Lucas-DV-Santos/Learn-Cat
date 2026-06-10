@@ -1,6 +1,5 @@
-from videos import 
 
-usuarios = []
+
 
 def login():
     print("\nSISTEMA DE LOGIN")
